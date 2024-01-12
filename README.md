@@ -16,7 +16,7 @@ An ethical discussion on algorithmic decision-making is presented, with an empha
 ## Introduction:
 The concept of proxies, rooted in the term `"procuracy"`, refers to an entity capable of both representing and replacing another item. Mathematically formalized as an implication, a proxy denoted as $P$ for a represented item $R$ must fulfill the conditions of representation and replacement. Floridi introduces the concept of `"degenerate proxies"`, categorized as `"Signs"` and `"Surrogates"`. Signs, representing but not replacing, include icons, indexes, and symbols. Surrogates, in contrast, replace without representing. Proxies find application in cases where direct measurement of a variable is challenging, costly, or involves missing values. Notably, proxies have bridged statistical gaps, representing variables like intelligence and quality of life (e.g., IQ and GDP per capita). The effectiveness of a proxy hinges on its predictability and lack of bias, with a focus on mitigating potential discrimination.
 
-<p align='center'><img src="Assets/Proxies_Venn.png" alt="Proxies Venn" width="50%"/></p>
+<p align='center'><img src="Assets/Proxies_Venn.png" alt="Proxies Venn" width="70%"/></p>
 </p>
 
 ## Understanding Societal Proxies
@@ -39,7 +39,7 @@ The concept of proxies, rooted in the term `"procuracy"`, refers to an entity ca
 
 **Medical proxies** like *Durable Power of Attorney for Health Care (DPAHC)* and *Body Mass Index (BMI)* aid decision-making and health assessments. While DPAHC assists in end-of-life decisions, BMI serves as a health proxy. However, BMI's accuracy may vary, and the use of proxies in healthcare requires careful consideration.
 
-<p align='center'><img src="Assets/Societal Proxies_1.png" alt="Societal Proxies" width="50%"/></p>
+<p align='center'><img src="Assets/Societal Proxies_1.png" alt="Societal Proxies" width="70%"/></p>
 </p>
 
 ### Family Proxies
@@ -108,7 +108,7 @@ An algorithm is a predefined set of steps for computer operations, essential in 
 ### What is Algorithmic Fairness
 Algorithmic fairness involves reducing biases in machine learning models that could lead to discrimination. It requires recognizing biases in algorithms and understanding their origins in training data. Achieving fairness demands technical improvements, ethical considerations, and societal awareness.
 
-<p align='center'><img src="Assets/AI-Model-Biases.png" alt="AI Model Bias" width="50%"/></p>
+<p align='center'><img src="Assets/AI-Model-Biases.png" alt="AI Model Bias" width="70%"/></p>
 </p>
 
 ### Bias Definition and Types
@@ -131,7 +131,7 @@ As society increasingly relies on AI algorithm decisions, the ethical responsibi
 
 The ethical evaluation of AI decisions is linked to their impact on individuals. The EU AI Act classifies AI systems based on risk levels, distinguishing low-impact decisions (artistic or trivial) from moderate-to-high-risk decisions (with potential social, health, or financial implications). Ethical scrutiny is vital for decisions impacting rights, health diagnoses, self-driving cars, facial recognition, insurance, and criminal sentencing.
 
-<p align='center'><img src="Assets/EU AI Act Pyramid.png" alt="EU AI Act" width="50%"/></p>
+<p align='center'><img src="Assets/EU AI Act Pyramid.png" alt="EU AI Act" width="70%"/></p>
 </p>
 
 ### Algorithmic Fairness in a Biased Society
@@ -214,6 +214,6 @@ Additionally, this repository includes coursework tasks focused on understanding
 <br>
 
 ---
-<p align='center'><img src="Assets/University-of-Malta.png" alt="University of Malta Logo" width="50%"/></p>
+<p align='center'><img src="Assets/University-of-Malta.png" alt="University of Malta Logo" width="40%"/></p>
 
 </p>
